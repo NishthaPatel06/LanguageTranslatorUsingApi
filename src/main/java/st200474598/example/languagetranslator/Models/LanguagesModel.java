@@ -3,7 +3,7 @@ package st200474598.example.languagetranslator.Models;
 import java.util.HashMap;
 
 /**
- * Model class which houses the list of languages available for translation
+ * Model class which have the list of languages available for translation
  */
 public class LanguagesModel {
 
