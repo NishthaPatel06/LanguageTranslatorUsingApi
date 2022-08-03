@@ -26,7 +26,7 @@ public class APIHandler {
     public static final String KEY = "0619ca6033mshd2a5bb724fd2e75p104e4cjsn801c2e9f6b98";
 
     /**
-     * API server call url
+     * API server url
      */
     public static final String BASE_URL = "https://google-translate1.p.rapidapi.com/language/translate/v2";
 
